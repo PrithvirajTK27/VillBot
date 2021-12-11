@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VillBot</string>
+    <string-array name="genderarr">
+        <item></item>
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+</resources>
